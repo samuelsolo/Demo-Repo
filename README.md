@@ -15,3 +15,8 @@ bro name is what?
  
 dagi and barki
 
+# feature update
+
+mother name is what?
+
+ayni 
